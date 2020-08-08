@@ -42,3 +42,6 @@
     right: 1.6rem;
     bottom: 0;
 }
+select{
+    font: 700 2.4rem Archivo;
+}
